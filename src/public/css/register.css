@@ -1,0 +1,22 @@
+.header {
+  background: white;
+}
+
+.header__inner {
+  padding: 20px 15px;
+  max-width: 1230px;
+}
+
+.header__logo {
+  color: #4D2C18;
+  text-decoration: none;
+  font-weight: bold;
+  font-size: 24px;
+  text-align: center;
+}
+
+.register-form__heading,
+.form__group-title, {
+  color: #4D2C18;
+  text-align: center;
+}
